@@ -1,8 +1,8 @@
 # GenDistributions.jl
 
 This package implements a lightweight compatibility layer for using
-distributions from [[Distributions.jl]](https://github.com/JuliaStats/Distributions.jl) in 
-[[Gen.jl]](https://github.com/probcomp/Gen).
+distributions from [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) in 
+[Gen.jl](https://github.com/probcomp/Gen).
 
 ```julia
 using GenDistributions
